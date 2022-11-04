@@ -1,0 +1,55 @@
+header{
+    color: white;
+    background-color:  #3399cc;
+    height:70%;
+    padding:2%;
+}
+#navbar{
+    height:40px;
+}
+.navbar-nav li{
+    margin-right:10%;
+}
+a:link{
+    color:white;
+}
+.navbar-nav li a:visited{
+    text-decoration: underline;
+    background-color: rgb(212, 152, 199);
+    color:white;   
+}
+.navbar-nav li a:hover{
+    background-color: orange;
+    color:black;
+}
+.navbar-nav li a:active{
+    background-color: rgb(91, 197, 70);
+    color:black; 
+}
+#icon{
+    margin-right: 3%;
+}
+form{
+    font-weight: 500;
+    width:70%;
+    margin-left:7%;
+}
+.para{
+    margin-left:7%;
+    margin-top:1%;
+}
+.btn{
+    background-color: rgb(192, 189, 189);
+    border-radius:0px;   
+}
+.btn:hover{
+background-color: black;
+color: white;
+}
+.row{
+    margin-bottom:2%;
+}
+#submitButton{
+    margin-left: 20%;
+    margin-top: 1%;
+}
