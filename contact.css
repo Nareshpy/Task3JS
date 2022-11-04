@@ -32,3 +32,12 @@ margin-bottom:1%;
     background-color: black;
     color: white;
 }
+textarea{
+    overflow-y: scroll;
+    resize: none;
+    height:100px;
+}
+select{
+    border-radius: 0px;
+    -webkit-appearance:listbox !important;
+}
